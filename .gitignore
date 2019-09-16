@@ -1,0 +1,12 @@
+# Object file
+*.o
+*.exe
+*.jp?g
+*.png
+*.gif
+*.svg
+*.pdf
+*.xls?
+.gitignor
+# Ada Library Information
+*.ali
